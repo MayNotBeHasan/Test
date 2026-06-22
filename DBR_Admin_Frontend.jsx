@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback, useMemo, useRef } from "react";
 
 // ── Config ─────────────────────────────────────────────────────────────────
-const API = "http://localhost:8000";
+const API = "https://dbr-backend-yjfm.onrender.com";
 
 // ── Helpers ────────────────────────────────────────────────────────────────
 function api(path, opts = {}, token) {
