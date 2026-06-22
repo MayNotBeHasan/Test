@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+*.egg-info/
+
+# Database — do not commit, regenerates on first run
+dbr_admin.db
+
+# Uploaded files — do not commit user data
+uploads/
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+frontend/.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug/output files
+debug_*.txt
+raw_*.txt
+*_extracted.txt
+scrutiny_result.json

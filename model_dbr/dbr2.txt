@@ -1,0 +1,1248 @@
+TABLE OF CONTENTS
+.4
+.4
+..5
+..6
+..6
+..6
+..6
+1.4 Proposed structural system of station.
+1.4.1 Superstructure System.
+1.4.2 Foundation System.
+2. DESIGN SPECIFICATION FOR STATION BUILDING. .6
+2.1 Materials.
+2.1.1 Сement
+2.1.2 Concrete
+6
+6
+6
+2.1.3 Prestressing Steel for Tendons 7
+2.1.3.1 Young's Modulus. .7
+2.1.3.2 Prestressing Units. 7
+2.1.3.3 Maximum Initial Prestress. ..7
+2.1.3.4 Density. 7
+2.1.3.5 Sheathing. ..7
+2.1.4 Structural Steel. 7
+2.1.5 Reinforcement. 7
+2.2 Durability.
+2.1.5.1 Reinforcement Detailing.
+2.2.1 Сoncrete Grades.
+2.2.2 Сover to Reinforcement
+2.2.3 Fire Resistance period.
+7
+7
+7
+8
+8
+2.2.4 Crack Width Check
+2.3 Clearances.
+2.4 Design Loads.
+.8
+.8
+.9
+2.4.1 Dead Loads (DL) 9
+2.4.2 Superimposed Dead Loads (SIDL) 9
+2.4.3 Imposed (Crowd Live) Load (IL) 9
+2.4.4 Earthquake Loads (EQ)
+2.4.4.1 Drift Limitation.
+2.4.4.2 Seismic Detailing.
+10
+10
+.10
+Ринно
+CHIEF ENGINEER
+[CO-ORD/P&D] 2
+BMRCL
+2.4.5 Wind Loads (WL) .10
+2.4.6 Collision/Impact Loads/Derailment Loads (CL) .10
+2.4.7 Construction and erection Loads (EL) .10
+2.4.8 Тemperature (OT) 10
+2.4.9 Shrinkage (S) .10
+2.4.10 Creep (C) 10
+2.4.11 Earth & Water Pressure (EP) .11
+2.4.12 Surcharge Load (SR) .11
+2.4.13 Pre-stressing Force (PR) 11
+2.4.14 Long welded Rail Force (LWR) 11
+2.4.15 Settlement. 11
+2.4.16 Other Forces and Effects .11
+2.5 Design Load Combinations. .11
+2.5.1 Ultimate Load Combination. .11
+2.5.2 Serviceability Load Combinations. .12
+2.6 Deflection Criteria
+2.6.1 Lateral Sway.
+.12
+.12
+2.7 Fatigue Check. 12
+2.8 Foundations. .12
+2.8.1 Туpes of Foundation. .12
+2.8.2 Design of Pile. .13
+2.8.3 Design of Foundations. .13
+2.9 Design of Water Retaining Structure. .13
+3. LIST OF DESIGN CODES AND STANDARDS, APPLICABILITY. .13
+4. DESIGN SOFTWARE 14
+ANNEXURE - 1 (Map of the Project). 15
+ANNEXURE - 2 (GOI approval letter). 16
+ANNEXURE - 3 (List of Design Codes and Standards). 24
+Puuran
+CHIEF ENGINEER
+[CO-ORD/P&D]
+BMRCL
+3
+metro
+1. INTRODUCTION
+1.1 Brief Description of Project
+ii.
+iii.
+i. Name /Title of the Project: Phase-3 of Bangalore Metro Rail Project
+Length-The total length of Phase-3 of Bangalore Metro Rail Project is 44.65
+kms, which consists of following two corridors,
+Corridor-1: JP Nagar 4th Phase to Kempapura (along ORR West)- 32.15 kms.
+Corridor-2: Hosahalli to Kadabagere (on Magadi Road)- 12.50 kms
+Map of the project showing both the corridors is enclosed as Annexure-1
+Viaduct/Cut & Cover /Tunnel- The entire section of the project is elevated with
+viaduct.
+a. Total Viaduct Length - 44.65 kms
+i. Approx. Viaduct Length only for Metro- 7.53 kms
+ii. Approx. Viaduct Length integrated with road flyover - 37.12 kms
+b. Total Cut & Cover Length- Nil
+c. Total Tunnel Length- Nil
+iv- Stations -
+Types- All the stations are elevated types.
+Number of stations- There are 31 numbers (22 on Corridor-1 and 9 on Corridor2) of stations on the project. Corridor wise list is as under,
+a. Corridor-1: JP Nagar 4th Phase to Kempapura (ORR West):
+S.N. Station S.N. Station
+1 JP Nagar 4th Phase 12 BDA Complex Nagarbhavi
+2 JP Nagar 5th Phase 13 Sumanahalli Cross
+3 JP Nagar 14 Chowdeshwari Nagar
+4 Kadirenahalli 15 Freedom Fighter's colony
+5 Kamakya Junction 16 Kanteerava Nagar
+6 Hosakerehalli 17 Peenya
+7 Dwaraka Nagar 18 Muthyala Nagar
+8 Mysore Road 19 BEL Circle
+9 Nagarbhavi Circle 20 Nagashettyhalli
+10 Vinayaka Layout 21 Hebbal Railway Station
+11 Papireddypalya 22 Kempapura
+b. Corridor-2: Hosahalli to Kadabagere (via Magadi Road):
+SN Station SN Station
+1 Hosahalli 6 Herohalli
+2 KHB colony 7 Byadarahalli
+Puuno 3 Kamakshipalya 8 Kamath Layout
+4 Sumanahalli Cross 9 Kadabagere
+5 Sunkadakatte
+CHIEF ENGINEER
+[CO-ORD/P&D]
+BMRCL 4
+metro Lo
+v- Construction Methodology: Elevated viaduct consisting of precast pre-stressed
+concrete U-shaped girders, I-girders, Composite girders, OW girders etc., on single
+pier/portal pier with pile foundations/open foundations located primarily on the road
+median.
+vi- Speed
+a. Max. Design Speed- 90 Kmph
+b. Max. Operating Speed- 80 Kmph
+vii- Power Supply & Traction
+a. Traction System Voltage-750 Volt DC Third Rail
+b. Current collection- Third Rail, Bottom Collection
+c. Power Supply Source-220/66 kV
+viii- Rolling Stock
+a. Axle Load-15 Ton
+b. Seating Arrangement- Longitudinal
+c. Capacity of 6 Coach unit- 2004 passengers (Seating-286; Standing 1718)
+ix- Signalling, Telecommunication and Train control
+a. Type of Signalling- CBTC System (Communication Based Train Control
+System)
+b. Telecommunication - Integrated system with Fiber Optic cable, SCADA,
+Train Radio, PA system, Train Information System, Control Telephones and
+Centralized Clock system etc.
+x- Maintenance Depot
+a. Maintenance Depot- Sunkadakatte Depot (Common for both the Corridors)
+b. Stabling Facilities- Peenya (Existing casting yard of BMRCL)
+xi- Sanction details of Project- The project has been approved by Ministry of Housing
+and Urban Affairs, Government of India vide letter no. K-14011/28/2022-MRTSCoord dated 13.09.2024. Copy of the letter is enclosed as Annexure-2
+1.2 SCOPE OF DESIGN BASIS REPORT
+This Design Basis Report is prepared to standardize the design methodology for BMRCL
+Phase 3 station structures made of RCC, PSC and Steel for the Project.
+The DBR is only for structural design of Elevated Stations. Extended platform portion
+which is generally on single column or portal type of structure shall be designed as part of
+viaduct. For viaduct portion two separate DBRs are submitted one for "Metro Viaduct"
+and another for "Metro Viaduct Integrated with the Road Flyover".
+The structural elements connected to the member on which metro live loads are supported
+will also be designed with taking loads applicable as specified in " DBR for Metro Viaduct"
+and DBR for "Metro Viaduct Integrated with the Road Flyover". Load combination as per
+"DBR for Metro Viaduct" and DBR for "Metro Viaduct Integrated with the Road Flyover"
+иn
+CHIEF ENGINEER
+[CO-ORD/P&D]
+BMRCL
+metro
+shall also be considered. Other structural elements such as secondary beams, stub columns
+etc., Entry/Exit Structures etc., shall be designed as per IS: 456:2000
+Structures, where Metro live loads are not applicable, the design of Plain and
+Reinforcement Concrete structures will generally be governed by IS:456. Pre-stressed
+concrete structures shall generally be governed by IS 1343, Steel structures design shall
+generally be governed by IS:800. Seismic design shall be governed by IS:1893.
+1.3 UNITS
+The main units used for design shall be: [t], [m], [mm], [KN], [KN/m²], [MPa], [°C], [rad].
+1.4 PROPOSED STRUCTURAL SYSTEM OF STATION
+1.4.1 Superstructure SystemStation Concourse & Platform and Entry Structure- Cast-in-situ, Pre-cast RC beam
+or Pre-cast Prestressed Pretension I-Beam or U or T beam for floor support.
+Substructure System
+Substructure shall consists of following elements:
+• Cast in-situ Pier or Column.
+• For Pier Caps or Beams: Precast or Cast in-situ is proposed.
+• Pier Columns are normally with Circular or rectangular shape.
+1.4.2 Foundation System
+For Entry Structures Open Foundation / Raft / Pile Foundation may be adopted as
+per Geotechnical information & requirement.
+2. DESIGN SPECIFICATION FOR STATION BUILDING
+Puua
+2.1 MATERIALS
+2.1.1 Сement
+For plain and reinforced concrete structures cement shall be used as per clause 5.1
+of IS:456 and in case of pre-stressed concrete structures as per clause 5.1 of IS:
+1343.
+2.1.2 Сoncrete
+As per clause 6, 7, 8, 9 and 10 of IS:456 in case of Plain and Reinforced Concrete
+structures and Clause 6, 7, 8, 9 and 10 of IS: 1343 for Pre-stressed concrete
+Structures.
+Short term modulus of elasticity (Ec) shall be taken as per cl. 6.2.3.1 of IS:456 for
+Plain and Reinforced Concrete structures and IS: 1343 for Pre-stressed concrete
+structures.
+The modular ratio for concrete grades shall be taken as per Annex B of IS:456.
+The Density of concrete shall be as per IS:456.
+CHIEF ENGINEER
+[CO-ORD/P&D]
+BMRCL
+6
+metro
+2.1.3 Prestressing Steel for Tendons- As per clause 5.6.1 of IS: 1343.
+2.1.3.1 Young's Modulus- As per prestressing steel used in accordance with Para
+2.1.3 above.
+2.1.3.2 Prestressing Units- As per clause 13 of IS: 1343.
+2.1.3.3 Maximum Initial Prestress-As per clause 19.5.1 of IS: 1343.
+2.1.3.4 Density-Weight of strands shall be as per relevant clauses of IS codes as
+per material being used as indicated in para 2.1.3 above
+2.1.3.5 Sheathing-As per clause 12.2 of IS: 1343.
+2.1.4 Structural Steel- Structural steel used shall confirm to
+a) Hollow steel sections as per IS:4923
+b) Steel for General Structural Purposes as per IS: 2062
+c) Steel tubes for structural purpose shall be as per IS:1161
+Note:
+(i) Grade of steel to be used shall be indicated, shall not be less than minimum
+grade as applicable, based on whether structure is taking moving loads or not
+and relevant code as indicated in note (ii) and (iii) below.
+(ii) Design of steel structure will be governed by IRS Steel Bridge Code in case
+structure is taking moving loads of Metro, otherwise will be governed by
+IS:800. In case of composite (steel-concrete) structures, it will be governed by
+IS:11384 & IS:3935.
+(iii) Fabrication shall be done in accordance with IRS B1 (Fabrication Code) in
+case structure is taking moving loads of Metro, otherwise shall be done as per
+IS: 800.
+2.1.5 Reinforcement
+As per clause 5.6 of IS: 456 for Plain and Reinforced concrete structures and as
+per clause 5.6.2 of IS: 1343 for Pre-stressed concrete structures.
+2.1.5.1 Reinforcement Detailing
+All reinforcement shall be detailed in accordance with clause 12 and 26 of IS:456
+& SP-34 for Plain and Reinforced concrete structures and as per Clause 12.3 and
+19.6.3 of IS:1343 and SP-34 for prestressed concrete structures. Ductile detailing
+of seismic resisting RC elements, shall comply with ductile requirements of
+IS:13920.
+2.2 Durability
+Durability of Concrete shall be as per clause 8.0 of IS: 456 for Plain and Reinforced
+Concrete structures, as per clause 8.0 of IS:1343 for prestressed, Concrete structures and
+Section 15 of IS:800 for Steel Structures.
+2.2.1 Concrete Grades
+Minimum grade of concrete shall be depending upon the environment to which
+the structure is exposed during its service life and shall be as per clause 5.4.4 of
+IRS CBC for the structures supporting metro loading. Puumon
+CHIEF ENGINEER [CO-ORD/P&D]
+BMRC
+metro
+And the remaining structures minimum grade to be followed as per Table 1 of IS
+1343 and IS 456. The following are the minimum grade to be followed for the
+various members.
+Minimum Grade of Concrete
+SN Structural Components Moderate Exposure
+1. PCC Members M25
+2. RCC Members M30
+3. PSC Members M35
+Minimum grade of concrete to be used for various structural elements in this
+project are mention below: for structural elements shall be as follows:
+SI. No. Structural Components Grade of Concrete
+1. Beams M35 and above
+2. Slabs M35
+3. Columns M35 and above
+4. Pile & Pile Cap M35
+5. RCC walls M35 and above
+6. Prestress Member M40 and above
+Рицио
+2.2.2 Cover to Reinforcement
+The cover to reinforcement shall be provided as per clause 26.4 of IS:456 for Plain
+and Reinforced Concrete Structures and clause 12.3.2 of IS:1343 for prestressed
+concrete structures. Cover to Prestressing steel shall be in accordance with clause
+12.1.6 of IS: 1343-2012.
+2.2.3 Fire Resistance period
+All the structural elements in the station building shall be designed for a minimum
+fire resistance period of 2 hours. The minimum element thickness for this fire
+resistance shall be as per clause 21 of IS:456 for Concrete structures and as per
+Section 16 of IS:800 for Steel structures.
+2.2.4 Сrack Width Check
+All structural concrete elements shall be designed to prevent excessive cracking
+due to flexure, early age thermal and shrinkage. Flexural crack width shall be
+checked in accordance with clause 35.3.2 and 43 of IS:456 for Plain and
+Reinforced Concrete Structures and clause 20.3.2 and 24.2 of IS: 1343 for
+Prestressed Concrete structures.
+2.3 Clearances
+ii.
+i. Clearance for Road Traffic: As per relevant IRC specifications and Road authority
+requirements.
+Clearance for Railway Traffic: Indian Railway Schedule of Dimensions (SOD)
+shall be applicable.
+iii. Clearance for Metro Traffic: As per approved SOD of Metro System.
+CHIEF ENGINEER
+[CO-ORD/P&D]
+BMRCL
+8
+metro Ho
+iv. For utility services: The clearances to utilities, drainage etc. shall be as mandated by
+the utility owner/ department.
+2.4 Design Loads- Following Elementary loads to be considered according to respective
+codal provision for design:
+Dead Loads DL
+Super Imposed Loads SIDL
+Imposed (Crowd Live) Loads LL
+Earthquake Loads EQ
+Wind Loads WL
+Collision/Impact Loads/Derailment Loads CL*
+Construction & Erection Loads EL
+Temperature Loads OT
+Shrinkage S
+Creep C
+Earth & Water Pressure EP
+Surcharge Loads (Traffic, building etc.) SR
+Pre-stress Force PR
+Long Welded Rail Force LWR
+Differential Settlement DS
+*Load as applicable shall be taken.
+2.4.1 Dead Loads (DL)
+Dead load shall be based on the actual cross section area and into weights and shall
+include the weight of the materials that are structural components of elevated
+station and permanent in nature.
+2.4.2 Superimposed Dead Loads (SIDL)
+Superimposed dead loads include all the weights of materials on the structure that
+are not structural elements but are permanent.
+Note- The SIDL can be of two types: Fixed or non-variable and variable. In case
+Metro certifies that a portion of SIDL is of fixed or non-variable type and is not
+likely to vary significantly during the life of structure and a special clause for
+ensuring the same is incorporated in the Metro's maintenance manual, the load
+factors applicable for dead load may be considered for this component of SIDL.
+The minimum distributed and concentrated loads shall be in accordance to IS:875,
+wherever available for remaining metro railway shall specify the loads.
+2.4.3 Imposed (Crowd Live) Load (LL)
+Imposed loads-on station buildings are those arising from occupancy and the values
+includes, normal use by persons, furniture and moveable objects, vehicles, rare
+events such as concentrations of people and furniture, or the moving or stacking of
+objects during times of re-organization and refurbishment, shall be as per clause
+19.3 of IS 456. Pluman
+CHIEF ENGINEER
+[CO-ORD/P&D
+BMRCL
+metro
+2.4.4 Earthquake Loads (EQ)
+Earthquake design shall follow the seismic requirements of IS:1893 (Part-I). The
+provision as per Design Basis Report for Viaduct of Metro System shall be
+followed where structures are taking moving loads of metro.
+2.4.4.1 Drift Limitation
+The story drift in the building shall satisfy the drift limitation specified in cl. 7.11.1
+in IS:1893 (Part-I).
+2.4.4.2 Seismic Detailing
+The seismic analysis of station shall be conducted as per IS: 1893 (Part 1). Zone
+factor is taken as 0.10 since Bangalore Metro Rail Project Phase-3 Corridor is
+situated in zone II of seismic map of India. Ductile detailing are as follows:
+(i) For RCC Structure, as per IS 13920
+(ii) For other structures, as per IS:4326.
+2.4.5 Wind Loads (WL)
+The wind load shall be calculated as per IS:875 part 3.
+2.4.6 Collision/Impact Loads/Derailment Loads (CL)
+(i) For Road traffic as per IRC 6.
+(ii) For Metro as per IRS Bridge Rule.
+2.4.7 Construction and erection Loads (EL)
+The weight of all temporary and permanent materials together with all other forces
+and effects which can operate on any part of structure during erection shall be taken
+into account. Allowances shall be made in the permanent design for any locked in
+stresses caused in any member during erection.
+2.4.8 Temperature
+As per Cl. 19.5 of IS: 456. Temperature gradient shall be considered as per clause
+215 of IRC-6, if applicable.
+2.4.9 Shrinkage (S)
+The shrinkage strains shall be evaluated as per clause 6.2.4 of IS:456 for plain and
+reinforced concrete structures and clause 6.2.4 of IS:1343 for prestressed concrete
+structures.
+For structure supporting Metro loading the effect as per CL. 5.2.3 IRS-CBC shall
+be considered.
+2.4.10 Creep (C)
+The creep strains shall be evaluated as per clause 6.2.5 of IS :456 for plain and
+Reinforced Concrete structures and clause 6.2.5 of IS :1343 for prestressed
+concrete structures.
+For structure supporting Metro loading the effect of creep as per CL. 5.2.4 IRSCBC shall be considered. Пиштан
+CHIEF ENGINEF
+[CO-ORD/P&ho
+BMRCL
+namma metro Lo
+2.4.11 Earth & Water Pressure (EP)
+In the design of structures or part of structure below ground level, such as retaining
+walls and underground pump room/water tank etc. the pressure exerted by soil or
+water or both shall be duly accounted for. When a portion or whole of the soil is
+below the free water surface, the lateral earth pressure shall be evaluated for weight
+of soil diminished by buoyancy and the full hydrostatic pressure (As per IS:875,
+Part 5).
+All foundation slabs/footings/subjected to water pressure shall be designed to resist
+a uniformly distributed uplift equal to the full hydrostatic pressure. Checking of
+overturning of foundation under submerged condition shall be done considering
+buoyant weight of foundation.
+If any of the structure supporting Metro loading is subjected to earth pressure, the
+loads and effects shall be calculated in accordance with Cl. 5.7 of IRS- Substructure
+code.
+2.4.12 Surcharge Load (SR)
+In the design of structures or parts of structures below ground level, such as
+retaining walls and underground pump room/water tank etc. the pressure exerted
+by surcharge from stationary or moving load, shall be duly accounted for.
+2.4.13 Pre-stressing Force (PR)
+The Prestressing force should be as per IS-1343.
+2.4.14 Long welded Rail Force
+Long welded Rail Force shall be specified by metro duly supported by either codal
+provision or calculation, if RSI analysis is not practicable.
+2.4.15 Settlement
+Maximum and differential settlement shall not exceed, as provided in Table 1 of
+IS:1904.
+2.4.16 Other Forces and Effects
+As per clause 19.6 of IS:456.
+2.5 Design Load Combinations
+2.5.1 Ultimate Load Combinations
+Пиццем
+Each component of the structure shall be designed and checked for all possible
+combinations of applied loads and forces. They shall resist effect of the worst
+combination. Following shall be considered:
+(i) Load combinations and factors as per Table 18 of IS:456 for Plain and
+Reinforced Concrete Structures.
+(ii) Load combination and factors as per Table 7 of IS:1343 for prestressed
+concrete structures.
+(iii) Load combination as per Section 3 and factors as per Section 5 of IS:800 for
+Steel structures.
+(iv) Load combination as per clause 6.3 of IS:1893 (Part-I).
+(v) Load combinations as per IRS CBC and RDSO guidelines for seismic design
+Railway Bridges where Metro live loads are applicable.
+CHIEF ENGINEER [CO-ORD/P&D]
+BMRCL
+11
+narime metro Lor
+Note:
+(i) Load combination for construction load case shall be accounted by BMRCL
+as per methodology of construction.
+(ii) Reference of IRC:6 will be taken for collision case if collision of road vehicles
+are involved.
+2.5.2 Serviceability Load Combinations
+The following load combinations and load factors shall be used for design for
+serviceability limit state:
+(i) Load combinations and factors as per Table 18 of IS:456 for Plain and
+Reinforced Concrete Structures.
+(ii) Load combination and factors as per Table 7 of IS:1343 for prestressed
+concrete Structures.
+(iii) Load combination as per Section 3 and factors as per Section 5 of IS:800 for
+Steel structures.
+(iv) Load combinations as per IRS CBC where Metro Live loads are applicable.
+2.6 Deflection Criteria
+The deflection limitations as per clause 23.2 of IS:456 for Plain and Reinforced Concrete
+Structures and Clause 20.3.1 of IS:1343 for Prestressed concrete structures shall be
+followed.
+For PES / PEB elements deflection limits of members shall generally be as per relevant
+clause of IS: 800.
+2.6.1 Lateral Sway
+The lateral sway at the top of the building due to Wind loads should not exceed
+H/500, where H is the height of the building.
+2.7 Fatigue Check
+Fatigue phenomenon needs to be analyzed only for those structural elements that are
+subjected to repetition of significant stress variation (under traffic load). Fatigue check
+for,
+(i) RCC and PSC structures - As per clause 13.4 of IRS CBС.
+(ii) Steel Structuresa) In case of Metro live loads, as per clause 3.6 of IRS Steel Bridge code shall
+govern. If * values are required to be used, the train closest to the actual train
+formation proposed to be run on the metro system shall be used. Otherwise,
+detailed counting of cycles shall be done.
+b) For other cases as per Section 13 of IS:800.
+* Damage equivalence factors (As per IRS Steel Bridge Code)
+2.8 Foundations
+2.8.1 Турes of Foundation
+Considering the nature of ground, type of proposed structures, expected loads on
+puum foundations, the following foundations are to be considered.
+CHIEF ENGINEER [CO-ORD/P&D]
+BMRCL
+12
+nammo metro
+a) Spread or pad footing
+b) Raft foundation
+c) Pile foundation
+No matter the type of foundation to be adopted, the following performance criteria
+shall be satisfied:
+1) foundation must not fail in shear
+2) foundation must not settle by more than the settlements permitted as per Table1 of IS:1904.
+2.8.2 Design of Pile
+IS: 2911 shall be followed for design of pile load capacity.
+Pile Settlement
+Methods of estimating the settlement of deep foundations depend upon the type of
+deep foundation and the manner of transfer of loads from the structure to the soil.
+Theoretical estimation of settlement shall be done in accordance with IS:8009 (Part
+II) by integrating the vertical strain for the entire depth of soil and rock formation.
+The settlement of each pile and/or pile group should be determined and it should
+be demonstrated that such total and/or differential settlement can be tolerated by
+the structure.
+2.8.3 Design of Foundations
+IS: 1904 shall be followed for design of foundation in soil. The safe bearing
+capacity for the shallow foundations shall be calculated in accordance with IS:6403.
+Computation of Settlements of Foundations
+The calculations for settlement of foundations shall be done as per:
+IS 8009 (Part I) for shallow foundations
+IS 8009 (Part II) for deep foundations
+Soil Structure Analysis : While designing element forces or estimating
+displacements the soil stiffness shall be assessed based on actual ground data.
+2.9 Design of Water Retaining Structure
+It should be designed as per IS 3370.
+3. LIST OF DESIGN CODES AND STANDARDS
+The designs of station buildings shall be carried out as per provisions of this Design
+Specifications. Reference shall be made to following codes for any additional information.
+Order of preferences of codes shall be as follows:-
+i. IS
+ii. IRS
+iii. IRC
+iv. BS or Euro Code
+v. AASHTO Puymoes
+CHIEF ENGINEER
+[CO-ORD/P&D] 13 BMRCL
+namma metro
+4.
+List of various design codes and standards to be used at various stages of works is
+appended as Annexure 3. These codes with latest revisions including all addendums /
+notifications and corrections slips only shall be used.
+DESIGN SOFTWARE
+Any commercial or proprietary software can be used for analysis or design provided the
+same is validated with manual computations or other standard software in multiple
+scenarios.
+Pluma
+CHIEF ENGINEER
+[CO-ORD/P&D]
+BMRCL
+14
+Shivanarura ಹಾರೋಶ ಲಕೃತನಹಳ್ಳಿ | "ಮದವರ
+PURA
+d by Ma KEMPAPU CourtyarAGAVARA Elements ents Mall Hilton Garden in
+Byra
+Mathra Astio Turt BANGALORE METRO RAIL PROJECTECT OUTE ALIGNMENT MAP OF CORRIDORS OF PHASE-3 Esteem Mall
+Δ
+NAGASHETTY HALLI
+BEL CIRCLE
+Gowdahalli Kadaranahalli
+Sti devi kalyana mantapa
+ahall LakstuSit Kanbada Lakstumi Narasunia
+GOUDABIDARAKALLU Lakshmipura Dakshina Shradi St Sa Dattapegta KGSrikan Srikantapura
+NAA PHASE 1 Christ Usiversetsiry albnavTheatre USRHAGAR
+naptist Huspital Jaya P
+ABB India Limited
+O Narayano Park instinute of Institute of PEENYA gyroma
+Comfon INN Insys Vetermary
+PEthiA Sparsh Hospital Ramalah DMart Hospital Sni Kamadhenu Ksleta HIVAPU DEVASANDRA
+RS Goeda Gangondanahall mmundeshw. 0 ವಡರಹ Bettahalli
+Kithanahalli
+CoAnil Palace The
+Annmees Freedom Land
+ADABAUERI
+The Krafted Backyard
+a
+OM Collections PHASE 3
+Rajkumar Bhats Canteen Pajagopul Hagur Karinobanahalli
+loch St Mune
+Akash Cinemas
+tarutli Thealre
+LAGGER
+he sut Secthool
+tion Center
+Sri Ramuknishna Palace MAGADI ROAD
+Sigarnbar Chostksh sthoARS TEXTILI
+XTILE
+A Lingadeeranhalli Mohan Theatre
+reshwara
+INKADAKATTE
+KAMATH L Hosaha The vlge KADABAGEREL
+asle Residency
+Berlas aaieva Vidyakesika
+NS Palace
+hannadasipalya
+kta
+Channenahalli
+Giddadapalya (Gedadapalya ಗಿಡ್ಡದಾಪಾಳ್ಯ Dubai
+EN
+ICO-ORD/P&DI
+eerabhaanaiSri
+Kannahalli
+Kenchanapura
+Kodigehalli ಕೊಡಿಗೇಹಳಿ
+That Pluys
+CIRCLE
+avipalya BME tain SN
+Margondanahalli
+Padmashue Grou
+Padmashree Institute of
+이
+сON temple
+EEDOM FIGHTER'S COLONY HOTLL
+DIIYA
+AНAP КАПАРЦА
+AJAGAR
+ದೇವಾ ಸಂದ್ರ
+Karnalaka Stale
+ursm bevelopment
+orion Mall
+of Sclence
+15 22 The Pub
+ALIESHWALAM
+Four Se
+Hotel Bengaluru at.
+B.
+eDMarDMart
+n Chulba Khawal da Pushpanjali A/C Digıtal 2K Dolby.
+Patels Inn Goshala Bengtur
+theatre
+A
+KALY
+hatate
+J.C.NAGAR MUDA RICHARDS TOWN IFEVAL
+Chamara
+Centtal Tat
+hal Palace
+ChitrakalaP Suguna HospitalH SESHAGRIPUPAM
+u Mall Bengalury Jаwaharial Nehru VAN LAGAR JC Nagar
+rutties inidira KHB COLONY BEDARAHALL Zen PBBA COMP AGAR
+GT World Mall
+2e ORR WEST ಪಟ ವ MAJESTIC HOSAHALLI
+HALASURU
+Cubbon Park Cubbon Park
+Sti Someswere
+KLE SoCI CollecteKINGS CILI AGARABHAAVI ನಾಗರಬಾವಿ PIREDDY PALYA HOLOURPALYA HCXPLE Baruda mall rastha
+A
+Cinepolis Binnypet NAGARATHPET comhotel by iTC Victoria Hospital Fardenia n galuru internationat
+Ullal
+Manganahalii ಮಂಗನಹಳ್ಳಿ JNANA GANG AGAR
+Ueui RTO Ofhice
+The Soda Fuctor ine Sad
+MALLATHAHALLI NAYAKA LAYOUTKFC Mall Sirsi Circ Tipu Sultan's
+B BLOCK Summer Palace KALASIPALYA * ಕಲಾಸಿಪಾಳ Passport Seva Kendra AGARBHAVI MTR halai kult LAYOUT
+ಚದ
+r Gavi Gangaadhareshwara. ORR WEST Botar
+Blus Teran Irtant Jesus Church Shei Suyanatayaa
+ASC Golf Course SC
+UNIVERSITY SORE ROAD
+Venkateshwara Chitramandira ORE ROAD thi Bh Uouch Limited NAYANDAL GNANA ನಾಯಂಡಹಳ್ಳಿ NAGDEVANAHALLI UHAKATHI
+°
+AinKaryasiddh aneya Temple BASAVANASUDI Ramasandra NENAHALLI e Mall KRAK WARAKANA
+Nagur
+yuit Cafe
+BBLOCK EJIPURA
+Nexus Mall K remantal Trutti
+DMar
+VALAGERAHALLI
+KENGERI
+Rajaralesh ENCHEN
+jeshwari
+SATELLITE TOWN
+heema Ramasa ಭೀಮನಕುಪ a temple
+LN KALYANA MANTAPA NA
+Chathurthi Farms
+Bettanapalya
+Corridor- oretiJP Nad
+Kommaghatta ಸೆಟ್ಟಲೈಟ್
+0 MAL ABANDRA
+agar 4th, Phase to Kempapura (A-B)
+Corridor-2: Hosahall to Kadabagere (C-D) (C enkäteshwara Theatre Full Crcle
+Ramohal
+ha)
+Bheemanakuppe
+Siri Pancharnuk
+Nagar
+in Himistarnts BARASHAN
+HOSAKEREHALLI
+GATTIGERE
+Shrungagii Sri KAJANAJESRAR Shanmukh
+cle taptoom 5TH STAGE
+Stoniy Brook Antrosia NS INSEITUTE OF TECIINOL Omkara Ashran MahasarystaanasNAA KODIPALYA
+CHAINA
+EHALLI
+Temple
+LADIRENA KADIRENA
+HIKKALAUANORA
+Om Colletions UntTA
+PMar
+H BLOCK Faaza Thimdi Balaji Theatre
+4
+SarovarPortico Suites
+Jam (Det
+S Board Bue ud Stand
+Ragigudda Shri Prasanna
+Embas
+Temple
+Aster RV Hospital Aana Iittie 4th PHASE
+JPNAGAR JPNAGÄRSIH PHASE BTM lake
+STHOHASE stlute Ot
+SECTOR 7
+ibis Bengalu The Majes
+Manugement
+To.
+Annerure
+No. K-14011/28/2022-MRTS-Coord
+Government of India
+Ministry of Housing and Urban Affairs
+Urban Transport Division
+(MRTS Coord Desk)
+301-B, Nirman Bhawan, New Delhi,
+Dated the 13th September, 2024.
+The Chief Secretary,
+Government of Karnataka,
+Room No. 320, 3rd floor,
+Vidhana Soudha Bengaluru 560001.
+Subject: Approval of Two Corridors of Bangalore Metro Rail Project Phase-3, namely (i) JP
+Nagar 4th Phase to Kempapura (along Outer Ring Road West), and (ii) Hosahalli to
+Kadabagere (along Magadi Road)- reg.
+Sir,
+I am directed to convey approval of the Government of India (Gol) for implementation
+of the rail-based Mass Rapid Transit system (MRTS) called the "Bangalore Metro Rail
+Project Phase 3" which comprises two corridors of a total length of 44.65 km i.e. (i) corridor1: JP Nagar 4th Phase to Kempapura (along Outer Ring Road West) of length 32,15 km and
+(ii) corridor-2 : Hosahalli to Kadabagere (along Magadi Road) of length 12.5 km, at a total
+completion cost of Rs. 15,611 crores (Rupees Fifteen Thousand Six Hundred Eleven Crore
+only) to be implemented by Bangalore Metro Rail Corporation Ltd (BMRCL) with
+contribution of Gol in the form of Equity and Subordinate Debt as per the details given in
+para 4 below and subject to the conditions as given in para 9 below.
+2. The project will be completed in 66 months from the date of sanction.
+3. Legal Framework: Legal cover for the Bangalore Metro Rail Project Phase 3 shall
+be under the Metro Railways (Construction of Works) Act, 1978; the Metro Railways
+(Operation & Maintenance) Act, 2002; Metro Railways (Amendment) Act, 2009 and the
+Railways Act, 1989, as amended from time to time.
+4. Project Financing: The cost of the project will be financed as per the funding pattern
+given below:
+Funding Pattern - Bangalore Metro Rail Project Phase 3
+Sr Sources No
+Amount
+(Rs in crore
+Share %
+|1 Gol - Equity 1,695 15%
+2 GoI-Sub - Debt 564 5%
+3 GoI Share Sub Total 2.259 20.0%
+4 GoK - Equity 1,695 15%
+5 GoK -Sub - Debt 564 5%
+6 GoK Share Sub Total 2.259 20.0%
+7 A
+External Assistance from Multilateral / Bilateral agencies
+or Loan from domestic sources
+6,775 60.0% 14uven
+CHIEF ENGINES [CO-ORD/P&D
+16 BMRCL
+8 Sub Total 11,293 100.0%
+9 Accruals from Value Capture Financing 400
+10 GoK- Subordinate Debt (Land Cost & Property
+Development) 2,404
+11 GoK Subordinate Debt (State taxes) 956
+12 Innovative Financing (Private Participation) 150
+13
+14
+Interest during construction (IDC) to be borne by GoK
+Total
+408
+15,611
+5. The component-wise cost of Bangalore Metro Rail Project Phase 3 is given
+at Annexure-1.
+6. Institutional Arrangement: This Project is proposed to be implemented by
+Bangalore Metro Rail Corporation Limited (BMRCL), the existing Special Purpose Vehicle
+(SPV) which is a 50:50 jointly owned company of Government of India (Gol) and
+Government of Karnataka (GoK).
+7. High Powered Committee: The existing High-Powered Committee under the
+Chairmanship of the Chief Secretary to the Government of Karnataka with other Secretaries
+concerned as members will take expeditious decisions on matters relating to the project where
+the State Government has to facilitate quick action including various conditions of sanction of
+this project.
+8. Commitments in line with the vision of 'Atmanirbhar Bharat Abhiyan': In line
+with the vision of AtmaNirbhar Bharat Abhiyan and Gol's "Make in India" initiatives, the
+procurement of the major metro rail components of the Bangalore Metro project Phase 3 will
+aim at enhancing the proportion of the supplies from the indigenous sources as per the
+minimum local content firmed up by MoHUA from time to time.
+9. Terms and Conditions of Sanction:
+i. The project shall be implemented by Bangalore Metro Rail Corporation Limited
+(BMRCL), the existing 50:50 jointly owned Special Purpose Vehicle (SPV) of
+Government of India (Gol) and Government of Karnataka (GoK) i.e. equal equity
+participation of Gol and GoK.
+ii.
+iii.
+iv.
+Memorandum of Understanding: Government of Karnataka, BMRCL and
+Government of India shall enter into a tripartite Memorandum of Understanding
+regarding detailed terms and conditions for implementation of the project in
+accordance with sanction of the Union Cabinet. Government of India share will not be
+released till the tripartite Memorandum of Understanding (MoU) is signed.
+Central Laws, i.e., the Metro Railways (Construction of Works) Act, 1978, the Metro
+Railways (Operation & Maintenance) Act, 2002 as amended through Metro Railways
+(Amendment) Act, 2009 and the Railways Act, 1989 would be applicable. Central
+Government's decisions with regard to safety, standardization and indigenization of
+rolling stock and other systems across all metro systems would be applicable. The
+implementing agency will get safety certification for the metro system done through
+Commissioner of Metro Railway Safety before operation for public.
+Government of Karnataka (GoK) would ensure price based measures to promote and
+facilitate Metro ridership, as part of Comprehensive Mobility Plan for the Bengaluru
+City with a view to ensure that the projected ridership is realized. There will be no
+liability on the part of the Government of India (Gol) if the ridership does not
+materialize and/or the project does not make adequate profits/surplus. Puwen
+CHIEF ENGINEER [CO-ORD/P&D]
+BMRCL
+V.
+vi.
+vii.
+Dedicated Urban Transport Fund: GoK should set up.a dedicated Urban Transport
+Fund (UTF) at the State level as well as at the city/metropolitan area level in
+consultation with MoHUA through levy of dedicated taxes/levies, betterment
+tax/impact fee, development charges and higher FAR in the influence zone of Metro
+Railway stations as envisaged in National Urban Transport Policy, 2006 to create pool
+of resources for replacement of assets and providing operational subsidies, if any, not
+only for this project but other Urban Transport projects as well. The amount realized
+from the increased land and property value capture from sale/rental proceeds would be
+credited to Dedicated Urban Transport Fund.
+Gol and GoK, shall nominate five Directors each to the Board of Directors (BoD), of
+SPV totalling 10 nominee Directors. The ex-officio Chairman of BoD will be among
+the five nominee Directors from GoI and the full-time Managing Director (MD) with
+adequate technical experience, among the five nominee Directors from GoK, will be
+appointed with the prior written permission of Gol. The Managing Director shall not
+be given any other/additional assignment by GoK without the prior written permission
+of MoHUA.
+The Special Purpose Vehicle (SPV), which shall implement this project, shall
+generally adopt the guidelines of Department of Public Enterprises, the Department of
+Economic Affairs and the Central Vigilance Commission as necessary to strengthen
+the Corporate Governance and shall be subject to the audit by CAG, State Legislature
+scrutiny and Parliamentary scrutiny.
+viii. The SPV shall be bound by such directions on question of policy, as the Central
+Government may give in writing from time to time.
+ix. The complete cost of land acquisition, resettlement and rehabilitation (including
+escalation) shall be met by the GoK. GoK would ensure that land acquisition does not
+become reason for delay in implementation of the project.
+X. Procurement of Additional Rolling Stock: Government of India will not share any
+cost towards procurement of additional rolling stock in the second and subsequent
+years of operation, as this statutory would not be a part of the project cost.
+xi.
+xii.
+Project cost: The implementation of Phase-3 project consisting of 44.65 Km length
+of Bangalore Metro Rail Project at appraised estimated completion cost of .15,611
+Cr. including the price escalation as per the Benchmarking norms firmed up by
+Ministry of Housing and Urban Affairs. The completion period of the project shall be
+5years and 6 months from the date of sanction.
+Cost Escalation: Gol's proposed funding for Phase 3 of Bangalore Metro Rail Project
+in the form of equity and subordinate debt will be ring-fenced to 20% of the total
+project cost (excluding land cost, State taxes, IDC, the cost financed from accrual
+from value capture financing, grants from concerned Urban entities and direct private
+participation PPP) in terms of para (E)(iii)(c) of Metro Rail Policy, 2017, which
+includes grant and subordinate debt for Central taxes (customs duty and CGST). Any
+other Cost Escalation due to price escalation or exchange rate variation within or
+beyond the approved project time limit, inclusion of any item not referred to in the
+DPR, and also any other cost escalation due to change in scope within and/or beyond
+the approved project time limit or delays beyond the approved time cycle shall be
+borne/met/arranged by GoK. This should be suitably incorporated in Memorandum of
+Association (MoA) and/or Shareholders Agreement.
+xiii. Government of India would not finance cash losses and capital expenditure during the
+operational phase and its requirements would be financed by the SPV and/or GoK
+from its own resources.
+xiv. Taxes
+i. GoK will either exempt the SPV from its State/local taxes and duties/levies or
+reimburse the same. Ai Mo
+18 CHIEF ENGINEER [CO-ORD/P&D]
+BMRCL
+XV.
+xvi.
+xvii.
+ii. The State/local taxes would not form part of the project cost to be shared by
+the Government of India.
+iii. There will be no waiver of Central taxes/duties by the Government of India.
+Repayment of Loan: In case of SPV not being able to repay the loan (as and when it
+becomes due), the responsibility for the same shall be borne by GoK through direct
+financial support or credit enhancement support for the refinancing and not by the
+Government of India. The exchange rate variation shall be borne by GoK.
+Government of India may debit the State Government account in case the loan
+liabilities are not remitted by the State Government/Metro Rail Corporation as per
+loan repayment schedule.
+GoK is also advised to rework the DPR on realistic basis with adequate deliberation
+on the issues, if any, raised by various stakeholders before going ahead with
+implementation to ensure sustainability of the project.
+High Powered Committee: During implementation of the project, the existing High
+powered Committee under the chairmanship of Chief Secretary to the GoK, with other
+Secretaries concerned, as members, will take expeditious decisions on matters relating
+to land acquisition, shifting of utilities and other structures in the project alignment,
+rehabilitation of Project Affected Persons, Multi-modal integration and such other
+matter where the State Government has to facilitate quick action including various
+conditions of sanction of this project.
+xviii. Multimodal Integration
+(a) Integration of various modes of transport which would act as feeder/evacuation system
+to the proposed metro for improved ridership including pedestrian, public bike sharing
+facility, feeder buses, adequate parking space for bicycles & cars and bus/taxi/auto stands
+at the stations, improvement in city bus service to introduce modern ITS-enabled buses,
+should be given high priority by GoK.
+(b) GoK should provide multimodal integration, including sub-urban railways (by
+involving Ministry of Railways) to provide a well-connected network in the region.
+(c) GoK should ensure that the metro rail project provides for first and last mile
+connectivity, accessibility and appropriate security arrangements.
+(d) GoK should provide common mobility card to provide integrated ticketing and
+seamless travel across all modes and all operators in the city.
+xix. Price-Based Measures to promote and facilitate Metro Rail Ridership: GoK
+should ensure price-based measures to promote and facilitate Metro Rail ridership, as
+part of Comprehensive Mobility Plan for the city with a view to ensure that the
+projected ridership is realized.
+xx. Land Use Densification: Land Use densification around the stations also needs to be
+done to increase the ridership and decrease the overall travel demand.
+xxi. Periodic Fare Revision: A suitable arrangement, independent of the SPV formed to
+implement the Metro Rail project, shall be provided for periodic fare revision for the
+Metro Rail as well as other competing modes.
+xxii. Unified Metropolitan Transport Authority: GoK should set up a Unified
+Metropolitan Transport Authority (UMTA), duly backed by legislation, to facilitate
+coordinated planning and implementation of projects related to urban transport and
+their integrated management.
+xxiii. Traffic Information Management Control Centre: GoK should set up a traffic
+information management control centre for effective traffic monitoring and
+enforcement as well as for data generation and data collection for future planning.
+A
+Puma
+19
+CHIEF ENGINEER
+[CO-ORD/P&D]
+BMRCL
+xxiv. National Public Transport Helpline: GoK should implement National Public
+Transport Helpline to provide information regarding various aspects of public
+transport such as routes, arrival/departure times, route planning, ticketing etc. in the
+city.
+XXv. Parking Policy: GoK should come up with a parking policy wherein parking fee
+represents the true value of the land occupied, which is used to make public transport
+more attractive; banning of parking on arterial/ring roads; provision of multi-level
+parking centres in city centres with park-and-ride facility etc.
+xxvi. Advertisement Policy: GoK should come up with an advertisement policy which taps
+advertisement revenue on public transport, intermediate public transport, public
+utilities and street furniture.
+xxvii. Metro stations should be designed and constructed with toilets in the paid area. The
+toilets should be part of the project cost.
+xxviii. GoK will endeavour to economize on the cost of the project through Value
+Engineering, Minimum Land Acquisition, adoption technological innovation during
+the project life cycle.
+xxix. Expenditure on O&M and debt servicing should be the responsibility of the SPV. In
+case the SPV fails in respect of this, the liabilities will be borne by GoK in terms of
+Para (D) (iv) (d) of Metro Rail Policy, 2017.
+xxx. GoK will bear the cost of Interest during Construction (IDC).
+xxxi. The SPV will explore the possibility of having common specification of the Metro
+Rail Projects in the State of Karnataka in terms of Para (D) (viii) of Metro Rail Policy,
+2017.
+xxxii. The external assistance, if any will flow on back to back basis as per Standard
+arrangement of Department of Economic Affairs.
+xxxiii. The SPV will explore the possibility of PPP in other areas of activities related to the
+metro project in terms of Para (E) (iii) (b) of Metro Rail Policy, 2017.
+xxxiv. Keeping in view overarching fiscal consolidation path, GoK should ensure flow or
+realizable VCF in the SPV account in terms of Para (D) (vii) (b) of Metro Rail Policy,
+2017 for meeting O&M, escalation, debt servicing etc. of the project in a manner that
+will reduce burden on the State exchequer.
+xxxv. The last instalment of Gol's Equity contribution to be linked to the VCF accrual of Rs
+400 Cr. for the MRTS and the same being made available to BMRCL within the
+approved project completion period in addition to the contribution of the State
+Government as per the recommended funding plan.
+xxxvi. GoK should enable the SPV to raise cheaper long term debt in the domestic market by
+allowing it to issue corporate debt bond in terms of Para (D) (xi).
+xxxvii. GoK would ensure that electric power is made available to the Project on a 'no profit,
+no loss basis.
+xxxviii. GoK would facilitate Property Development by the SPV near stations, depots and
+metro alignments to the extent possible. It would also undertake Transit Oriented
+Development for the Bangalore Metro Phase-3 project Corridors and its influence
+zone, for planned development of the region as well as to increase the ridership and
+decrease the overall travel demand.
+xxxix. GoK to implement NCMC in BMTC within 12 months.
+xl. The SPV shall obtain all necessary and statutory clearance of Central and State
+Government as applicable on this Project.
+A
+Рициа
+20
+CHIEF ENGINEER [CO-ORD/P&D]
+BMRCL
+xli. GoK and the SPV will take note of the observations of Ministry of Home Affairs
+(MHA) on security issues and ensure adequate necessary steps accordingly.
+xlii. The SPV shall explore the possibilities of engaging private sector in a medium to long
+term maintenance of its assets and labour intensive services to economize on O&M
+costs.
+xliii. The SPV shall ensure that the station designs are to be leaner and modular
+commensurate to the ridership estimate of each station.
+10. This issues with the concurrence of Integrated Finance Division of this Ministry vide
+their note in E-file No K-14011/28/2022-MRTS-Coord (E-9145833) dated
+10.09.2024 and with the approval of Secretary (HUA) vide above E-file number dated
+13.09.2024
+Yours faithfully,
+(Yogesh Antil)
+Director (MRTS-I)
+Tele:011-23062782
+Copy to:
+1. Additional Chief Secretary to Government, Urban Development Department, Room
+No.436, Vikasa Soudha, Bangalore
+2. Resident Commissioner, Government of Karnataka, Karnataka Bhavan, 10, Kautilya
+Marg, Chanakyapuri, New Delhi - 110 021.
+Copy forwarded for information to:
+1. Principal Secretary to Prime Minister, Prime Ministers Office, South Block, New
+Delhi-110001.
+2. Chief Executive Officer, NITI Aayog, Yojana Bhavan, New Delhi-110001.
+3. Secretary, Ministry of Home Affairs, North Block, New Delhi-110001.
+4.
+5.
+Secretary, Department of Expenditure, Ministry of Finance, North Block, New Delhi110001.
+Secretary, Department of Economic Affairs, Ministry of Finance, North Block New
+Delhi-110001.
+6. Secretary, Department of Revenue, Ministry of Finance, North Block, New Delhi110001.
+7. Chairman, Railway Board, Rail Bhawan, New Delhi -110001.
+8. Secretary, Ministry of Environment, Forests & Climate Change, Indira Paryavaran
+Bhavan, Jor Bagh, New Delhi-110003.
+9. Secretary, Ministry of Road Transport & Highways, Parivahan Bhavan, Sansad Marg,
+New Delhi -110001.
+10. Secretary, Ministry of Statistics and Programme Implementation, Sardar Patel Bhavan,
+Sansad Marg, New Delhi-110001.
+11. Secretary, Ministry of Civil Aviation, Rajiv Gandhi Bhawan, New Delhi.
+12. Secretary, Ministry of Culture, C Wing, Shashtri Bhawan, New Delhi.
+13. The Joint Director (Intelligence Bureau), 35, Sardar Patel Marg, New Delhi. Pи
+CHIEF ENGINEER [CO-ORD/P&D]
+BMRCI
+14. Director (Cabinet), Cabinet Secretariat, Rashtrapati Bhavan, New Delhi with reference
+to their communication No. 16/CM/2021(i) dated 22.04.2021.
+Copy also to:
+1. PS to Minister of State (Independent Charge) for Housing & Urban Affairs.
+2. Secretary (HUA), MoHUA.
+3. Additional Secretary (D & UT), MoHUA.
+4. Joint Secretary & Financial Adviser, MoHUA.
+5. OSD (UT) & ex-officio Joint Secretary, MoHUA.
+6. Managing Director, Bangalore Metro Rail Corporation Ltd.
+7. Director (MRTS-I)/Director (MRTS-II)/Director (UT-II), MоHUA.
+8. Chief Controller of Accounts, MoHUA, Nirman Bhavan, New Delhi.
+9. PAO (Sectt), MoHUA, Nirman Bhavan, New Delhi.
+10. Under Secretary (D-II), Integrated Finance Division, MoHUA.
+11. Budget Section, MOHUA.
+12. Sanction Folder. A
+(Yogesh Antil)
+Director (MRTS-I)
+Tele.011-23062782
+Puman
+CHIEF ENGINEER
+[CO-ORD/P&D 22
+BMRCL
+Annexure-I
+Component-wise cost of Bangalore Metro Rail Project Phase 3 project namely (i) JP
+Nagar 4th Phase to Kempapura (along Outer Ring Road West), and (ii) Hosahalli to
+Kadabagere (along Magadi Road)
+SI. No Item Amount
+(. In Cr)
+Land and R&R 2,403.56
+2 Alignment & Formation 2,693.01
+3 Station Buildings 1,198.55
+4 Maintenance Depot 310.00
+5 P-Way for Main line and depot 461.73
+6 Traction and Power Supply 896.84
+7 Signalling and Telecommunication etc. 732.16
+8 Environmental works 43.60
+9 Miscellaneous Utilities, Road works etc. 443.02
+10 Capital Expenditure on Security. 13.94
+11 Rolling stock 1,872.00
+12
+13
+Capital Expenditure on multimodal integration
+Total of all items except land and R&R.
+109.40
+8,774.25
+14 General Charges incl. Design charges at 5% on
+all items except land and R&R 438.71
+15 Total of all items including General charges
+except land and R&R. 9,212.96
+16 Contingencies at 3% on all items except land
+and R&R. 263.23
+17 Gross Total excluding land and R&R 9,476.19
+18 Gross Total including land and R&R 11,879.75
+19
+20
+Central GST and Customs Duty
+State GST
+999.46
+843.23
+21 Total Cost including Taxes and Duties 13,722.44
+22 Escalation at 5% per annum during
+construction. 1,238.32
+23 Escalation at 5% per annum for Central Taxes 129.04
+24
+25
+26
+27
+28
+Escalation at 5% per annum for State Taxes
+Total completion including land and R&R
+and escalation during construction.
+Interest during construction including Front
+End Fee
+Total completion cost including IDC and
+Front end Fee
+Rounded off
+15,610.60
+15,611.00
+112.90
+15,202.70
+407.89
+Писа
+CHIEF ENGINEER
+[CO-ORD/P&D]
+BMRCL 23
+metro
+List of Design Codes and Standards
+Annexure-3
+IS Codes
+IS:269-2015
+(Reaffirmed Year: 2020)
+IS:383-2016
+IS:432-1982
+(Reaffirmed Year: 2020)
+IS:455-2015
+(Reaffirmed Year: 2020)
+IS:456-2000
+(Reaffirmed Year: 2021)
+IS:800-2007
+(Reaffirmed 2017)
+IS:875
+IS:1080-1985
+(Reaffirmed Year: 2021)
+IS:1161-2014
+(Reaffirmed Year: 2019 )
+IS:1343-2012
+(Reaffirmed Year: 2022)
+IS:1364-2023
+IS:1367-2025
+IS:1489: Part 1: 2015
+(Reaffirmed Year : 2020)
+IS:1786-2008
+(Reaffirmed Year: 2018)
+IS:1893:Part1:2016
+(Reaffirmed Year: 2021)
+IS: 1904-2021
+IS: 1905-1987
+(Reaffirmed Year : 2017)
+IS: 2062-2011
+(Reaffirmed 2021)
+Specs for Ordinary and Low Heat Portland cement (Include Amd-1
+2023)
+Specs for course and fine aggregate from natural sources for concrete
+(Include Amd-1 2017 & Amd-2 2019)
+Specs for Mild Steel & medium tensile steel bars (Part 1)
+Specifications for Portland Slag Cement (Include Amd-2 2023)
+Code of Practice for Plain and Reinforced Concrete (Include Amd-6
+2024)
+Code of Practice for General construction in steel (Include Amd-2
+2024)
+Code of Practice for Design Loads Part-1(1987), Part-2(1987), Part3(2015), Part-4(2021) & Part-5(1987) (other than Earthquake) for
+Building and structures (Include All Amendments latest by 2024)
+Code of Practice for Design and Construction of Shallow Foundations
+in Soils (Other Than Raft, Ring and Shell)
+Specs for Steel Tubes for Structural Purposes (Include Amd-2 2023)
+Prestressed concrete-code of practice
+Hexagon Head Bolts, Screws, And Nuts of Property Grades A and B:
+Part 1- Hexagon Head Bolts (Size Range M1.6 To M64)
+Technical Supply Condition for Threaded Steel Fasteners
+Specifications for Portland Pozzolana Cement (Fly ash based)
+Specs. For High Strength Deformed steel bars and wires for concrete
+Reinforcement (Include Amd-4 2019)
+Criteria for Earthquake Resistant Design of Structures - Part 1: General
+Provisions and Buildings
+Design and Construction of Foundation in soils: General Requirements
+Code of Practice for Structural Use of Un-reinforced Masonry
+Hot Rolled Medium and High Tensile Structural Steel- Specification
+IS: 2502-1963
+(Reaffirmed Year: 2018)
+Code of Practice for Bending and Fixing of Bars for Concrete Reinforcement
+IS: 2911-2010
+(Reaffirmed Year: 2020)
+IS: 2911-2013
+(Reaffirmed Year: 2018)
+IS: 2950-1981
+(Reaffirmed Year: 2023
+IS: 3370-2021
+IS:4326-2013
+(Reaffirmed Year: 2018)
+Code of Practice for Design & Constr. of Pile Foundations Part
+Concrete Piles, Section 2 Bored Cast-in-situ Piles
+Code of Practice for Design & Constr. of Pile Foundations Part 4 Load
+test on Piles
+1
+Code of practice for design and construction of raft foundations - Part
+1: Design
+Concrete Structure for Storage of Liquid (Include All Amendments
+published Latest by 2024)
+Code of Practice for Earthquake Resistant Design and Construction of
+Buildings
+Puman
+CHIEF ENGINER
+[CO-ORD/P&D]
+BMRCL
+namma
+metro fo
+IS: 4923-2017
+(Reaffirmed Year : 2023)
+IS: 2062-2011
+(Reaffirmed Year: 2021)
+IS: 8009-1976
+(Reaffirmed Year : 2023)
+IS: 8112-2013
+IS: 8500-1991
+IS: 9103-1999
+(Reaffirmed Year: 2018)
+IS: 12070-1987
+(Reaffirmed Year: 2020)
+IS: 12269-2013
+IS: 13920-2016
+(Reaffirmed Year: 2021
+IS: 14593-1998
+(Reaffirmed Year : 2023)
+IS: 14268-2022
+SP-07-2016
+SP 34: 1987
+Other Codes
+FIP
+BS: 4447-1973
+BS: 4486-1980
+BS 8004:2015+A1:2020
+CIRIA Report 103-1984
+CIRIA Report 143-1995
+CIRIA Report 181-1999
+CIRIA Report PG7-1980
+AASHTO Guide
+Hollow steel sections for structural use -specification (Include Amd-3
+2024)
+Hot Rolled Medium and High Tensile Structural Steel - Specifications
+Calculation of settlement of shallow foundations
+Specification for 43 Grade Ordinary Portland cement (withdrawnsuperseded by IS 269:2015)
+Structural Steel -Micro alloyed (Medium and high strength qualities)
+(withdrawn- superseded by IS 2062:2006)
+Specifications for Admixtures for Concrete
+Code of Practice for Design and Construction of Shallow Foundations
+on Rocks (Include Amd-2 2022)
+Specification for 53 Grade Ordinary Portland cement(withdrawnsuperseded by IS 269:2015)
+Ductile Detailing of Reinforced Concrete Structures subjected to
+Seismic Forces
+Design and Construction of Bored Cast-In-Situ Piles Founded on
+Rocks Guidelines
+Uncoated Stress Relieved Low Relaxation Seven-Wire (Ply) Strand for
+Prestressed Concrete-Specification
+National Building Code of India 2016 (Vol I and II) (Include Amd.
+1:2021)
+Handbook on Concrete Reinforcement & Detailing
+Recommendations for the Acceptance of Post-Tensioning Systems
+Specifications for the Performance of Prestressing Anchorages for
+Post-Tensioned Construction (superseded by EN 13391:2004)
+Specifications for High Tensile Steel bars used for Prestressing
+Code of Practice for Foundations
+Design of laterally-loaded piles
+The Standard Penetration Test (SPT): Method and Use
+Piled Foundation in Weak Rocks
+Pile Load Testing Procedure
+Specification for structural design with Ultra-high performance
+concrete
